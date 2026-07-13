@@ -1,22 +1,22 @@
 {
-    "version": "0.1.20",
+    "version": "0.1.21",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Yeelight/yeelight-home/releases/download/v0.1.20/yeelight-home-windows-amd64.zip",
+            "url": "https://github.com/Yeelight/yeelight-home/releases/download/v0.1.21/yeelight-home-windows-amd64.zip",
             "bin": [
                 "yeelight-home.exe"
             ],
-            "hash": "a8a2d183d0ca96a8d129f0689dfcbd3f3d24460449b1ae00d4aff740645654e2"
+            "hash": "135e93e7bc55ed97ab3fcc9601d464e2d7f01b6ffd2673cb8c1bbc048eb9321a"
         },
         "arm64": {
-            "url": "https://github.com/Yeelight/yeelight-home/releases/download/v0.1.20/yeelight-home-windows-arm64.zip",
+            "url": "https://github.com/Yeelight/yeelight-home/releases/download/v0.1.21/yeelight-home-windows-arm64.zip",
             "bin": [
                 "yeelight-home.exe"
             ],
-            "hash": "e842e12f3e32ad9c68d11bd9985d1a7afa6bf7c98120e1bca594fd858ed8cb7e"
+            "hash": "a50cade49a00e0dd579d412d2d3eee3e6d047e8b1822bbc146ebc6fb314254c8"
         }
     },
     "homepage": "https://github.com/Yeelight/yeelight-home",
-    "license": "Proprietary",
+    "license": "Apache-2.0",
     "description": "Local Yeelight Home Runtime CLI."
 }
