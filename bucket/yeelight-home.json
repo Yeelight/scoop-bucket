@@ -1,19 +1,19 @@
 {
-    "version": "0.1.19",
+    "version": "0.1.20",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Yeelight/yeelight-home/releases/download/v0.1.19/yeelight-home-windows-amd64.zip",
+            "url": "https://github.com/Yeelight/yeelight-home/releases/download/v0.1.20/yeelight-home-windows-amd64.zip",
             "bin": [
                 "yeelight-home.exe"
             ],
-            "hash": "f3c61f1e32b403936b5c224ed9a9f2bda8649574141d44b5d160ee5af2efec95"
+            "hash": "a8a2d183d0ca96a8d129f0689dfcbd3f3d24460449b1ae00d4aff740645654e2"
         },
         "arm64": {
-            "url": "https://github.com/Yeelight/yeelight-home/releases/download/v0.1.19/yeelight-home-windows-arm64.zip",
+            "url": "https://github.com/Yeelight/yeelight-home/releases/download/v0.1.20/yeelight-home-windows-arm64.zip",
             "bin": [
                 "yeelight-home.exe"
             ],
-            "hash": "748e022fbd7234507ae8be5cfdb61b1784b4bafc7f882ae1586d7b480e6a9ed5"
+            "hash": "e842e12f3e32ad9c68d11bd9985d1a7afa6bf7c98120e1bca594fd858ed8cb7e"
         }
     },
     "homepage": "https://github.com/Yeelight/yeelight-home",
